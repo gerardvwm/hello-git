@@ -1,0 +1,1 @@
+print('Hello Git 2!')  # This prints a greeting message to the console
